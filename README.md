@@ -2,7 +2,7 @@
 I made a game using batch file, it is a Minecraft copy game. you should try it out. it has overworld, nether, and the end dimensions.
 
 ## About
-Created by [Gamify the Gamer](https://www.youtube.com/@gamifythegamer) - Check out my YouTube channel for more gaming content!
+Created by [Gamify the Gamer](https://www.youtube.com/@Gamify-the-Gamer) - Check out my YouTube channel for more gaming content!
 
 ## Features
 - **Three Dimensions**: Explore the Overworld, Nether, and The End
